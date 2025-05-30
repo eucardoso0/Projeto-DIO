@@ -19,7 +19,7 @@ O objetivo do projeto é aplicar conceitos e práticas de engenharia de dados, i
 
 ---
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 - MySQL
 - Python
 - SQL
